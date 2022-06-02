@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTESTandRegexDay20", "MSTESTandRegexDay20\MSTESTandRegexDay20.csproj", "{4F344332-0D90-436B-BF02-C079D563ABCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSTESTandRegexDay20", "MSTESTandRegexDay20\MSTESTandRegexDay20.csproj", "{4F344332-0D90-436B-BF02-C079D563ABCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTestDay20", "MSTestDay20\MSTestDay20.csproj", "{D81C2D15-CBF6-4316-A7BE-41EA275B9C10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4F344332-0D90-436B-BF02-C079D563ABCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F344332-0D90-436B-BF02-C079D563ABCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F344332-0D90-436B-BF02-C079D563ABCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81C2D15-CBF6-4316-A7BE-41EA275B9C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81C2D15-CBF6-4316-A7BE-41EA275B9C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81C2D15-CBF6-4316-A7BE-41EA275B9C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81C2D15-CBF6-4316-A7BE-41EA275B9C10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
